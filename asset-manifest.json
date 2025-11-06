@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tikixu-thanh/static/css/main.0cc50eaa.css",
+    "main.js": "/tikixu-thanh/static/js/main.622386f8.js",
+    "static/js/453.181a059f.chunk.js": "/tikixu-thanh/static/js/453.181a059f.chunk.js",
+    "index.html": "/tikixu-thanh/index.html",
+    "main.0cc50eaa.css.map": "/tikixu-thanh/static/css/main.0cc50eaa.css.map",
+    "main.622386f8.js.map": "/tikixu-thanh/static/js/main.622386f8.js.map",
+    "453.181a059f.chunk.js.map": "/tikixu-thanh/static/js/453.181a059f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc50eaa.css",
+    "static/js/main.622386f8.js"
+  ]
+}
