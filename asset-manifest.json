@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tikixut-thanh/static/css/main.0cc50eaa.css",
-    "main.js": "/tikixut-thanh/static/js/main.f55a6a50.js",
+    "main.js": "/tikixut-thanh/static/js/main.12b8014f.js",
     "static/js/453.181a059f.chunk.js": "/tikixut-thanh/static/js/453.181a059f.chunk.js",
     "index.html": "/tikixut-thanh/index.html",
     "main.0cc50eaa.css.map": "/tikixut-thanh/static/css/main.0cc50eaa.css.map",
-    "main.f55a6a50.js.map": "/tikixut-thanh/static/js/main.f55a6a50.js.map",
+    "main.12b8014f.js.map": "/tikixut-thanh/static/js/main.12b8014f.js.map",
     "453.181a059f.chunk.js.map": "/tikixut-thanh/static/js/453.181a059f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc50eaa.css",
-    "static/js/main.f55a6a50.js"
+    "static/js/main.12b8014f.js"
   ]
 }
