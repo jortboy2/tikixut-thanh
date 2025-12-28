@@ -19,7 +19,7 @@ function App() {
 
   const [denomination, setDenomination] = useState("200k");
   const [productId, setProductId] = useState(denominationMap["200k"]);
-  const email = "hamvui1123@gmail.com";
+  const email = "phuong0815513467@gmail.com";
   const paymentMethod = "momo";
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
@@ -31,7 +31,7 @@ function App() {
     setResult(null);
 
     try {
-      const res = await fetch("https://vannghimomo.onrender.com/api/order/ca", {
+      const res = await fetch("https://vannghimomo.onrender.com/api/order/thanh", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ product_id: productId }),
