@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tikixut-thanh/static/css/main.0cc50eaa.css",
-    "main.js": "/tikixut-thanh/static/js/main.4278bee5.js",
+    "main.css": "/tikixut-thanh/static/css/main.9f4c3e32.css",
+    "main.js": "/tikixut-thanh/static/js/main.7d6abefc.js",
     "static/js/453.181a059f.chunk.js": "/tikixut-thanh/static/js/453.181a059f.chunk.js",
     "index.html": "/tikixut-thanh/index.html",
-    "main.0cc50eaa.css.map": "/tikixut-thanh/static/css/main.0cc50eaa.css.map",
-    "main.4278bee5.js.map": "/tikixut-thanh/static/js/main.4278bee5.js.map",
+    "main.9f4c3e32.css.map": "/tikixut-thanh/static/css/main.9f4c3e32.css.map",
+    "main.7d6abefc.js.map": "/tikixut-thanh/static/js/main.7d6abefc.js.map",
     "453.181a059f.chunk.js.map": "/tikixut-thanh/static/js/453.181a059f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cc50eaa.css",
-    "static/js/main.4278bee5.js"
+    "static/css/main.9f4c3e32.css",
+    "static/js/main.7d6abefc.js"
   ]
 }
